@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Di",
+				"Dijkstra"
+			],
+			[
+				"new",
+				"new_jval_i"
+			],
+			[
+				"jrb",
+				"jrb_insert_str"
+			],
+			[
+				"ed",
+				"Edges"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			],
+			[
+				"MA",
+				"MAIN_C"
+			],
+			[
+				"jval",
+				"jval_v"
+			],
+			[
+				"jva",
+				"jval_v"
+			],
+			[
+				"ver",
+				"vertex2"
+			],
+			[
+				"k",
+				"Krus"
+			],
+			[
+				"MAp",
+				"Mapping_ID_To_Name"
+			],
+			[
+				"verte",
+				"vertex1"
+			],
+			[
+				"Ed",
+				"Edges"
+			],
+			[
+				"To",
+				"Topological_Graph"
+			],
+			[
+				"Grap",
+				"Graph_Struct"
+			],
+			[
+				"Ma",
+				"Mapping_Name_To_ID"
+			],
+			[
+				"Gra",
+				"Graph_Symbol_Table"
+			],
+			[
+				"Map",
+				"Mapping_Name_To_ID"
+			],
+			[
+				"Ver",
+				"vertex"
+			],
+			[
+				"S",
+				"Graph_Symbol_Table"
+			],
+			[
+				"MAX_",
+				"MAX_LENGTH_ARRAY"
+			],
+			[
+				"Sdar",
+				"Search_Char_For_Dijkstra"
+			],
+			[
+				"Se",
+				"Search_Index_For_Dijkstra"
+			],
+			[
+				"Sear",
+				"Search_Char_For_Dijkstra"
+			],
+			[
+				"Sr",
+				"Search_Index_For_Dijkstra"
+			],
+			[
+				"Sea",
+				"Search_Char_For_Dijkstra"
+			],
+			[
+				"Graph_",
+				"Graph_Symbol_Table"
+			],
+			[
+				"GR",
+				"GRAPH_TRAVERSE_C"
+			],
+			[
+				"AS",
+				"ASSISTANT_C"
+			],
+			[
+				"D",
+				"define"
+			],
+			[
+				"VEr",
+				"Vertices"
+			],
+			[
+				"Ad",
+				"Add_Vertex"
+			],
+			[
+				"ad",
+				"Add_Vertex"
+			],
+			[
+				"ve",
+				"vertex1"
+			],
+			[
+				"s",
+				"struct	struct"
+			],
+			[
+				"strc",
+				"struct_use_for_graph"
+			],
+			[
+				"struc",
+				"struct_use_for_graph"
+			],
+			[
+				"str",
+				"struct_use_for_graph"
+			],
+			[
+				"ar",
+				"array_for_graph"
+			],
+			[
+				"ARR",
+				"array_for_graph"
+			],
+			[
+				"node_",
+				"node_queue"
+			],
+			[
+				"stop",
+				"stop"
+			],
+			[
+				"index",
+				"index_start"
+			],
+			[
+				"MAX_L",
+				"MAX_LENGTH"
+			],
+			[
+				"IN",
+				"index_v"
+			],
+			[
+				"MAX",
+				"MAX_LENGTH_OF_ARRAY"
+			],
+			[
+				"MAX_LE",
+				"MAX_LENGTH_OF_ARRAY"
+			],
+			[
+				"co",
+				"colour"
+			],
+			[
+				"MAK",
+				"MAKE_GRAPH_O"
+			],
+			[
+				"MAKE",
+				"MAKE_GRAPH_C"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"EXA",
+				"EXAMPLE_C"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"get",
+				"getpid"
+			],
+			[
+				"chi",
+				"childpid1"
+			],
+			[
+				"ci",
+				"child’s"
+			],
+			[
+				"Mean",
+				"Meaning"
+			],
+			[
+				"cont",
+				"count"
+			],
+			[
+				"mea",
+				"mean"
+			],
+			[
+				"mean",
+				"mean2"
+			],
+			[
+				"me",
+				"mean2"
+			],
+			[
+				"mena",
+				"mean2"
+			],
+			[
+				"M",
+				"MAX_VALUE_LENGTH"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/Application.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/lib/jval.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/GraphTraverse.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/Assistant.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/MakeGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/main.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/README",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/makefile",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/MakeGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/GraphTraverse.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/Assistant.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/Application.h",
+		"/media/mylaptop/Transcend/HedDict/command.c",
+		"/media/mylaptop/Transcend/HedDict/tokenizer.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/lib/heap.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/GraphTraverse.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/GraphTraverse.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/GraphTreverse.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/GraphTreverse.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/lib/jrb.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph0/lib/jrb.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/makefile",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/MakeGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/MakeGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/MakeGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/Assistant.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/Assistant.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/example.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/Application.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/GraphTraverse.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/GraphTraverse.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/GraphTraverse.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/GraphTraverse.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/Application.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/Application.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/makefile",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/libfdr/graph2.o",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/libfdr/graph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/Assitant.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/Assitant.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/FSGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/FSGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/lib/dllist.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph3/lib/dllist.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/MakeGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/MakeGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/graph1.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/FSGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/FSGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/Application.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph2/Application.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/MakeGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/graph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/FSGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/FSGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Graph1/Application.h",
+		"/home/mylaptop/Ki3+4/Nhom7/sinhtu.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/makefile",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/MakeGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/MakeGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/example.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Make/Makefile",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/lib/jrb.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Makefile",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Make/makefile",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/GraphTraverse.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/graph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/FSGraph.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/FSGraph.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Application.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/Application.c",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/GraphTraverse.h",
+		"/home/mylaptop/C-Advanced/tuananh1/Them/librbt/lib/jrb.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/test.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/fork.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/ex5.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/cat.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/ex4.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/exit.c",
+		"/home/mylaptop/Ki3+4/HedDict/command.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/ex3.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/ex2.c",
+		"/home/mylaptop/Ki3+4/HDH/Demo/ex1.c",
+		"/home/mylaptop/Ki3+4/HedDict/tokenizer.h",
+		"/home/mylaptop/Ki3+4/HedDict/tab.h",
+		"/home/mylaptop/Ki3+4/HedDict/rl.h",
+		"/home/mylaptop/Ki3+4/HedDict/dict.h",
+		"/home/mylaptop/Ki3+4/HedDict/error.h",
+		"/home/mylaptop/Ki3+4/HedDict/btree_func.h",
+		"/home/mylaptop/Ki3+4/HedDict/command.h",
+		"/home/mylaptop/Ki3+4/HedDict/command_list",
+		"/home/mylaptop/Ki3+4/HedDict/btree_func.c",
+		"/home/mylaptop/Ki3+4/HedDict/tokenizer.c",
+		"/home/mylaptop/Ki3+4/HedDict/tab.c",
+		"/home/mylaptop/Ki3+4/HedDict/rl.c",
+		"/home/mylaptop/Ki3+4/HedDict/dict.c",
+		"/home/mylaptop/Ki3+4/HedDict/main.c",
+		"/home/mylaptop/Ki3+4/HedDict/install",
+		"/home/mylaptop/Ki3+4/main.c",
+		"/home/mylaptop/Ki3+4/vidu.c",
+		"/home/mylaptop/Ki3+4/projectTab-V.Anh/main.c",
+		"/home/mylaptop/Ki3+4/HDH/test.c",
+		"/home/mylaptop/Ki3+4/HedDict/makefile",
+		"/home/mylaptop/Ki3+4/HedDict/dictionary.txt",
+		"/home/mylaptop/Ki3+4/HDH/fork.c",
+		"/usr/include/unistd.h",
+		"/home/mylaptop/Ki3+4/HedDict/meaning.dict",
+		"/home/mylaptop/Ki3+4/HedDict/dictionary.index"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"free_dict",
+			"free",
+			"		\n",
+			"free",
+			"RB",
+			"empty",
+			") ",
+			"setleft",
+			"	\n",
+			"return",
+			"	\n",
+			"clock",
+			"tran"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "heap.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
